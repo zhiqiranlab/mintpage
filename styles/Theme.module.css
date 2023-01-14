@@ -8,8 +8,8 @@
 }
 
 .previewImage {
-  height: 500px;
-  width: 500px;
+  height: 250px;
+  width: 250px;
   border-radius: 16px;
   border: 1px solid var(--border-color);
   padding: 8px;
@@ -163,7 +163,7 @@
   font-size: 2rem;
   background-color: transparent;
   border: 1px solid grey;
-  color: #fff;
+  color: rgb(0, 0, 0);
 }
 
 .quantityControlButton:disabled {

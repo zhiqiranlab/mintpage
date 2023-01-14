@@ -314,15 +314,7 @@ const Home: NextPage = () => {
           </>
         )}
       </div>
-      {/* Powered by thirdweb */}{" "}
-      <a href="https://fluiddreams.art/" target="_self">
-  <img
-    src="/logo.png"
-    alt="Logo"
-    width={135}
-    className={styles.buttonGapTop}
-  />
-</a>
+
     </div>
   );
 };

@@ -3,10 +3,10 @@
 /* Change the values in here to match your branding */
 :root {
   /* Background color of the page */
-  --background-color: #f01db1;
+  --background-color: #ffffff;
 
   /* Color of the text/words */
-  --text-color: #fff;
+  --text-color: rgb(0, 0, 0);
 
   /* Main color of your brand */
   --color-primary: #f213a4;
